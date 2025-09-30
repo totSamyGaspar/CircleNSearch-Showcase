@@ -34,6 +34,8 @@
 <img width="559" height="639" alt="2" src="https://github.com/user-attachments/assets/ee7210a2-0029-4c1e-ae11-4a2ce3b02907" />
 <img width="1290" height="715" alt="3" src="https://github.com/user-attachments/assets/2d5e88b2-3c65-4c56-902f-15454595523e" />
 
+## DEMO Video
+https://youtu.be/r7AvUjoKIs0
 
 ## 🚀 How It Works
 
